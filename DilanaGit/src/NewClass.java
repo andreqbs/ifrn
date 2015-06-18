@@ -9,5 +9,6 @@
  * @author 20141144010570
  */
 public class NewClass {
+    int a;
     
 }
